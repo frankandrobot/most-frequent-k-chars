@@ -1,0 +1,13 @@
+{
+  "name": "most-frequent-k-chars",
+  "version": "0.0.1",
+  "description": "Algorithm to measure word similarity",
+  "main": "lib/most-freq-k-chars.js",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "debug": "~2.1.1",
+    "jasmine-node": "^1.14.5"
+  }
+}
